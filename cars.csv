@@ -1,0 +1,6 @@
+model,available,req_record,price,car_health,owner,id,name,return_date(DD),return_date(MM),return_date(YYYY)Tesla,1,18,25000,500,0,0,0,00,00,0000
+BMW,1,40,20000,464,0,0,0,00,00,0000
+Mercedes,1,38,20000,500,0,0,0,00,00,0000
+Fortuner,0,35,17500,485,2,5,Lasya,18,3,2024
+Creta,1,35,15000,500,0,0,0,00,00,0000
+Scorpio,1,38,15000,500,0,0,0,00,00,0000
